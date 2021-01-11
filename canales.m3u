@@ -1,0 +1,16 @@
+#EXTM3U
+ 
+#EXTINF:0 tvg-id="ext" group-title="Channels",panamericana
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFm9-eFV6Tq7aZ8XmbBFGcXk)/dm/3/x774s7s/s/live-3.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEwMzMzNTAxLCJzZXNzaW9uIjoiMTkwLjIzNy4xNC44NCIsIndoaXRlbGlzdCI6WyIxOTAuMjM3LjE0Ljg0Il19LCJzaWduYXR1cmUiOiI2MmRjODkxMTU5OGI1MWVjYTBmZGUzMmE4ZmZmMzYyMDEwYTU3OGIzIn0%3D
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV PERU
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/0e733j.m3u8?s=XgzKQb6ao5CHAGOYz8h2Qw&e=1610273279
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",DICOVERY
+https://qfydzuw9r6a57djf.ezcdn462.net:8443/hls/8ha8ro.m3u8?s=sNg8QKnls2YgdmM3n32jMQ&e=1610274340
